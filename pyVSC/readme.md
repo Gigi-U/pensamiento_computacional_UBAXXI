@@ -3,3 +3,4 @@ Si no me permite escribir el input en la terminal: https://www.youtube.com/watch
 ^= altGr [
 
 https://www.freecodecamp.org/espanol/news/codigos-alt-caracteres-especiales-lista-de-simbolos-del-teclado-en-windows/
+
